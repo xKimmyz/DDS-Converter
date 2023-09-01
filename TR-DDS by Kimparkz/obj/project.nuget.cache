@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjzpmoJ5Zid0/O5dZIMGW11ZGH4HAVhRqVntDuskpGjs79jKvVl8fY2LLagVdyfMJ7BGEsefDgyZNpWNlrVOsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kimpa\\source\\repos\\TR-DDS by Kimparkz\\TR-DDS by Kimparkz\\TR-DDS by Kimparkz.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimpa\\.nuget\\packages\\freeimage-dotnet-core\\4.3.6\\freeimage-dotnet-core.4.3.6.nupkg.sha512",
+    "C:\\Users\\kimpa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kimpa\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\kimpa\\.nuget\\packages\\system.drawing-dotnet-core\\1.2.3\\system.drawing-dotnet-core.1.2.3.nupkg.sha512",
+    "C:\\Users\\kimpa\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\kimpa\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\kimpa\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

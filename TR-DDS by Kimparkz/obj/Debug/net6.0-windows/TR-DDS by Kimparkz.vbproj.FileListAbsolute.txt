@@ -1,0 +1,25 @@
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\TR-DDS by Kimparkz.exe
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\TR-DDS by Kimparkz.deps.json
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\TR-DDS by Kimparkz.runtimeconfig.json
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\TR-DDS by Kimparkz.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\TR-DDS by Kimparkz.pdb
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\FreeImage-dotnet-core.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\System.Drawing-dotnet-core.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\runtimes\osx.10.10-x64\native\FreeImage.dylib
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\runtimes\ubuntu.16.04-x64\native\FreeImage.so
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\runtimes\win7-x64\native\FreeImage.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\bin\Debug\net6.0-windows\runtimes\win7-x86\native\FreeImage.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.vbproj.AssemblyReference.cache
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR_DDS_by_Kimparkz.Form1.resources
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.vbproj.GenerateResource.cache
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.AssemblyInfoInputs.cache
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.AssemblyInfo.vb
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.vbproj.CoreCompileInputs.cache
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.vbproj.CopyComplete
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\refint\TR-DDS by Kimparkz.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.pdb
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR-DDS by Kimparkz.genruntimeconfig.cache
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\ref\TR-DDS by Kimparkz.dll
+C:\Users\kimpa\source\repos\TR-DDS by Kimparkz\TR-DDS by Kimparkz\obj\Debug\net6.0-windows\TR_DDS_by_Kimparkz.Resources.resources
